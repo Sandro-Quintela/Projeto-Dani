@@ -1,0 +1,51 @@
+.video_relac h2{
+    font-family: 'Inter', sans-serif;
+    font-size: 2.2em;
+    font-weight: 400;
+    margin: 2em 10em 0.8em 13.1em;
+}   
+
+
+
+.video_flex table{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    margin: 0 2.5em;
+    overflow-x: scroll;
+
+}
+
+.video_flex video{  
+    height: 270px;
+    margin: 0rem 0.6rem;
+    width: 380px;
+}
+
+.video_flex a{
+    color: black;
+    font-family: 'Inter', sans-serif;
+    font-size: 0.8em;
+    padding: 0 0.7em;
+    text-decoration: none;
+}
+
+.setas_scroll{
+    margin: 0em 2.6em 0em 0em;
+    text-align: right;
+
+}
+
+.setas_scroll img{
+    border: none;
+    margin: 1em 0.5em 1em 0em;
+    width: 50px;
+    overflow-x: scroll;
+    scroll-behavior: smooth;
+}
+
+.setas_scroll img:hover{
+    cursor: pointer;
+}
+
+

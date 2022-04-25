@@ -1,5 +1,5 @@
 .caixa{
-    background: url(./img/bg.jpg);
+    background: url(./bg.jpg);
     height: 100vh;
 }
 
@@ -164,7 +164,7 @@ h1{
 /* segunda parte da page */
 
 .bg-gray{
-    background-image: url(./img/bg-cinza.png);
+    background-image: url(./bg-cinza.png);
     height: 110vh;
 }
 
