@@ -1,0 +1,39 @@
+.posts_relac h2{
+    font-family: 'Inter', sans-serif;
+    font-size: 2.2em;
+    font-weight: 400;
+    margin: 3em 10em 1.3em 13.4em;
+
+}
+
+.posts_container table{
+    margin: 0em 2.5em;
+
+}
+
+
+.posts_nav img{
+    border: none;
+    height: 380px;
+    margin: 0rem 0.6rem 1rem 0.6rem;
+    width: 380px;
+    
+}
+
+.posts_nav a{
+    color: black;
+    font-family: 'Inter', sans-serif;
+    font-size: 0.8em;  
+    padding: 0em 0.7em;
+    text-decoration: none;
+}
+
+.posts-link{
+    margin-bottom: 1.5em;
+}
+
+.tag_a{
+    height: 60px;
+}
+
+

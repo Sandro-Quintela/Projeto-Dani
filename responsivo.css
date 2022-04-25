@@ -1,0 +1,215 @@
+@media screen and (max-width: 767px){
+    .caixa{
+        width: auto;
+        height: 100vh;
+    }
+
+    h1{
+        margin-left: 0.2em;
+        font-size: 17px;
+        padding: .1rem 0.3rem .1rem 0.3rem;
+    }
+
+    .video{
+        height: 450px;
+        margin: 0.9em 0.5em 0.5em 0.5em;
+        width: 90%;
+    }
+
+    .icones{
+        width: 35px;
+        height: 35px;
+        padding-left: 5px;
+    }
+    
+    .redes_sociais{
+        
+        flex-direction: row;
+        justify-content: space-between;
+        float: left;
+        margin-left: 5%;
+        margin-top: 140%;
+        width: 230px;
+        height: 42px;
+        text-align: center;
+        padding-top: .5em;
+    }
+
+    .compartilhe{
+        
+        font-size: 0.690em;
+        transform: none;
+        position: absolute;
+        padding: .3em;
+        margin-left: 11px;
+        margin-top: 136%;
+        
+    }
+
+
+/* main responsivo */
+
+    
+
+    .texto h2{  
+        font-size: 1.5em;
+        padding: 1.3em 3em 0.7em 3em;
+    }   
+
+    .texto p{   
+        font-size: 0.599em;
+        line-height: 1.5;
+        margin: auto;
+    }
+    
+    .texto2 p{   
+        font-size: 0.599em;
+        line-height: 1.5;
+        margin: auto;
+    }
+
+    .img_texto{
+        margin: 1.5em 0 1em 8em;
+        width: 127px;
+    }
+    
+    .img_texto2{
+        margin: 1.5em 0 1em 8em;
+        width: 135px;
+    }
+    
+    .texto2 h3{
+        font-size: 0.6em;
+        margin-bottom: 1.9em;
+        margin-left: 0.1em;
+    }   
+    
+    .texto2 h4{  
+        font-size: 30px;
+        margin-top: 1.2em;
+        margin-left: 2.7em;
+    }
+
+    .video_relac h2{
+        font-size: 1.5em;
+        margin: auto 2.6em;
+    }   
+    
+    .video_flex table{
+        margin: 0 0.5em;
+    }
+    
+    .video_flex video{  
+        margin: 0rem 0.6rem;
+        width: 340px;
+    }
+
+    .setas_scroll{
+        margin: 0em auto 0em 0em;   
+    }
+    
+    .setas_scroll img{
+        width: 40px;
+    }
+
+    .posts_relac h2{
+        font-size: 1.5em;
+        margin: 3em 1.6em 1.3em 3em;
+    }
+    
+    .posts_container table{
+        margin: 0em 0.5em;
+    }
+
+    .posts_nav td{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .posts_nav img{
+        height: 380px;
+        margin: 0rem 0.6rem 1rem 0.6rem;
+        width: 340px;
+        
+    }
+
+    .formulario{
+        height: 460px;
+        margin: 1em 0.5em; 
+        position: relative;
+        width: 360px;   
+       
+    }
+
+    formulario label{
+        margin: 1em auto;
+        width: 100px;
+    }
+    
+    .formulario input{
+        height: 50px;
+        margin: 1em auto;
+        width: 300px;
+    
+    
+    }
+    
+    .formulario button{
+        height: 58px;  
+        margin: 1em 0 1em 4em;
+        width: 250px;
+        
+    }
+
+    .paragrafo{
+        height: auto;
+    
+    }
+    
+    .paragrafo h2{
+        font-size: 1.5em;
+        line-height: 1.3;
+        padding: 2em 1em 0.5em 1em;
+        position: relative;
+        width: auto;
+    }
+    
+    .paragrafo_caixa{
+        margin: 0;
+        padding: 0.5em 1em; 
+        position: relative;
+        width: auto;
+    }
+    
+    .paragrafo p{
+        line-height: 1.2;
+        margin: auto;
+        position: relative;
+        width: auto;
+        
+    }
+
+
+/* footer responsivo */
+
+
+    footer h2{
+        font-size: 1.5em;
+    }
+
+    .img_footer td{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .img_footer{
+        margin: auto;
+    }
+
+    footer img{
+        width: 340px;
+
+    }
+
+
+}
